@@ -1,0 +1,56 @@
+/* General page spacing */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+/* Container spacing */
+.container {
+    padding: 50px 15px;
+}
+
+/* Header */
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+/* Section Titles */
+h4 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 20px;
+}
+
+/* Paragraph text */
+p {
+    font-size: 1.1rem;
+    color: #555;
+}
+
+/* List styling for Our Values */
+ul {
+    font-size: 1rem;
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+/* Optional: Add some padding and spacing to the footer content */
+footer .container {
+    padding: 15px;
+}
